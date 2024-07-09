@@ -37,7 +37,7 @@ function Header() {
       </div>
 
       <nav className={` ${!isOpen ? "hidden" : null} text-center md:flex justify-between`}>
-        <ul className="dark:text-light-content font-medium md:flex items-center md:space-x-5 md:mr-10">
+        <ul className=" md:flex text-content items-center md:space-x-5 md:mr-10" style={{fontSize:"19px"}}>
           <li className="pb-1 md:pb-0">
             <NavLink className="hovers" to="/" onClick={toggleClass}>
               Home

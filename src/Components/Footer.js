@@ -7,8 +7,8 @@ function Footer() {
 
   return (
 
-    <footer className="container mx-auto py-2 fixed bottom-0 md:left-15 bg-white dark:bg-dark-mode">
-      <p className="text-xs mb-1.5 text-center text-dark-content dark:text-light-content w-full" style={{fontSize:14}}>Contact</p>
+    <footer className="container mx-auto py-2 footer-me fixed bottom-0 md:left-15 bg-white dark:bg-dark-mode">
+      <p className="text-xs mb-1.5 text-center text-content w-full" style={{fontSize:14}}>Contact</p>
       <ul className="footer-img">
       <li className="pb-1 md:pb-0">
       <a href={linkdein} target="_blank" rel="noreferrer noopener">

@@ -21,9 +21,9 @@ function Technologies() {
 
   return (
 
-    <main className="container mx-auto max-width pt-10 pb-20 ">
+    <main className="container tech mx-auto max-width pt-10 pb-20">
       <section>
-        <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
+        <h1 className="text-2xl text-dark-heading text-content md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Skills and Technologies
         </h1>
       </section>
@@ -66,7 +66,7 @@ function Technologies() {
       </button></div>
       </section>
       <section>
-        <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
+        <h1 className="text-2xl pt-10 text-dark-heading text-content md:text-4xl xl:text-5xl xl:leading-tight font-bold">
           Tools
         </h1>
       </section>

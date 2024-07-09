@@ -77,7 +77,7 @@ export const eduDetails = [
   },
   {
     Position: "Bachelor in Aeronautical Engineering",
-    Company: `Jeppiaar Engineer College`,
+    Company: `Jeppiaar Engineering College`,
     Location: "Chennai",
     Type: "Student",
     Duration: "2016 - 2020",
